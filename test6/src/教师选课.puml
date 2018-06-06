@@ -1,0 +1,17 @@
+@startuml
+title 基于GitHub的实验管理平台--学生选课用例的顺序图
+actor users
+    users -> teachers
+
+    teachers -> 实验管理平台:登录
+    
+    teachers -> terms:选学期
+
+	teachers -> courses:getCourses()
+	
+	teachers -> courses:选择课程
+
+	courses ->  teachers:选课成功
+
+
+@enduml
