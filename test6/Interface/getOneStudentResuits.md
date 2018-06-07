@@ -40,7 +40,7 @@
                 "test_id":1,
                 "web_exists": true, 
                 "result": 80, 
-                "memo":"本作业做得较好",
+                "memo":"实验完成",
                 "update_date": "2018-06-02 13:48:01"
                 }, 
                 {

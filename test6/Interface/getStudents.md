@@ -29,7 +29,7 @@
             "data": [
                 {"WEB_SUM": "Y,Y,Y,Y,Y,N",
                 "RESULT_SUM": "83.75,90,80,80,85,N",
-                "GITHUB_USERNAME": "wuchuan11",
+                "GITHUB_USERNAME": "yuansong8989",
                 "STUDENT_ID": "201510414424",
                 "CLASS": "软件(本)15-4",
                 "NAME": "袁松",

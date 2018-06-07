@@ -30,7 +30,7 @@
             "ID":"201510414424",    
             "name":"袁松",
             "class_dept":"软件工程4班"
-            "github_username":"wuchuan11D",
+            "github_username":"yuansongID",
             "type":"学生"            
         }
  
